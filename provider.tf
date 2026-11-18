@@ -10,5 +10,5 @@ terraform {
 }
 
 provider "aws" {
-  region = "ap-south-1" # Replace with your resource's AWS region
+  region = "us-east-1"
 }
